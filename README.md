@@ -23,6 +23,10 @@ Make sure mongo is started on port 27017
 
 `npm run dev` - to start locally, then open `http://localhost:3000`
 
+## Populate database
+
+PUT http://localhost:3000/api/products
+
 ## Demo
 
 Live demo at : http://raw-dawg.ca
