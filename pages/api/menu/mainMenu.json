@@ -1,0 +1,83 @@
+[
+    {
+        "title": "iPhone cases",
+        "url": "/category/chekhly-na-iphone",
+        "isActive": false,
+        "children": [
+            {
+                "title": "iPhone 7",
+                "url": "/category/iphone-7",
+                "isActive": false
+            },
+            {
+                "title": "iPhone 7 Plus",
+                "url": "/category/iphone-7-plus",
+                "isActive": false
+            },
+            {
+                "title": "iPhone 6",
+                "url": "/category/iphone-6",
+                "isActive": false
+            },
+            {
+                "title": "iPhone 5/5s",
+                "url": "/category/iphone-5-5s",
+                "isActive": false
+            }
+        ]
+    },
+    {
+        "title": "iPad cases",
+        "url": "/category/chekhly-na-ipad",
+        "isActive": false,
+        "children": [
+            {
+                "title": "iPad mini 3/ mini 2/ mini",
+                "url": "/category/ipad-mini-3-mini-2-mini",
+                "isActive": false
+            },
+            {
+                "title": "iPad Air 2/ Air",
+                "url": "/category/ipad-air-2-air",
+                "isActive": false
+            },
+            {
+                "title": "iPad 4/ 3/ 2",
+                "url": "/category/ipad-4-3-2",
+                "isActive": false
+            }
+        ]
+    },
+    {
+        "title": "Cases for Samsung",
+        "url": "/category/chekhly-dlya-samsung",
+        "isActive": false
+    },
+    {
+        "title": "Collections",
+        "url": "/category/podborki",
+        "isActive": false,
+        "children": [
+            {
+                "title": "For women",
+                "url": "/category/dlya-devushek",
+                "isActive": false
+            },
+            {
+                "title": "For men",
+                "url": "/category/dlya-muzhchin",
+                "isActive": false
+            },
+            {
+                "title": "With picture",
+                "url": "/category/s-risunkom",
+                "isActive": false
+            },
+            {
+                "title": "With charger",
+                "url": "/category/s-akkumulyatorom",
+                "isActive": false
+            }
+        ]
+    }
+]

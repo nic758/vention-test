@@ -1,0 +1,68 @@
+[
+    {
+      "title": "iPhone cases",
+      "url": "/category/chekhly-na-iphone",
+      "children": [
+        {
+          "title": "iPhone 7",
+          "url": "/category/iphone-7"
+        },
+        {
+          "title": "iPhone 7 Plus",
+          "url": "/category/iphone-7-plus"
+        },
+        {
+          "title": "iPhone 6",
+          "url": "/category/iphone-6"
+        },
+        {
+          "title": "iPhone 5/5s",
+          "url": "/category/iphone-5-5s"
+        }
+      ]
+    },
+    {
+      "title": "iPad cases",
+      "url": "/category/chekhly-na-ipad",
+      "children": [
+        {
+          "title": "iPad mini 3/ mini 2/ mini",
+          "url": "/category/ipad-mini-3-mini-2-mini"
+        },
+        {
+          "title": "iPad Air 2/ Air",
+          "url": "/category/ipad-air-2-air"
+        },
+        {
+          "title": "iPad 4/ 3/ 2",
+          "url": "/category/ipad-4-3-2"
+        }
+      ]
+    },
+    {
+      "title": "Cases for Samsung",
+      "url": "/category/chekhly-dlya-samsung"
+    },
+    {
+      "title": "Collections",
+      "url": "/category/podborki",
+      "children": [
+        {
+          "title": "For women",
+          "url": "/category/dlya-devushek"
+        },
+        {
+          "title": "For men",
+          "url": "/category/dlya-muzhchin"
+        },
+        {
+          "title": "With picture",
+          "url": "/category/s-risunkom"
+        },
+        {
+          "title": "With charger",
+          "url": "/category/s-akkumulyatorom"
+        }
+      ]
+    }
+  ]
