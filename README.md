@@ -22,3 +22,7 @@ Start app and mongodb: `./start_stack.sh`
 Make sure mongo is started on port 27017
 
 `npm run dev` - to start locally, then open `http://localhost:3000`
+
+## Demo
+
+Live demo at : http://raw-dawg.ca
